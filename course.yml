@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: NGO數據分析
+description: 促進NGO工作人員數據分析能力
 programming_language: r
 from: 'r-base-prod:30'
